@@ -10,6 +10,7 @@ Just a quick note: since the app was developed specifically for Android, it can 
 
 For a full walkthrough of how the app works, you can check out the video and PDF linked below. They cover everything in detail.  
 
-[DBF Surrogate Shopper.pdf](https://github.com/user-attachments/files/20638839/DBF.Surrogate.Shopper.pdf)  
+[DBF Surrogate Shopper.pdf](https://github.com/user-attachments/files/20638918/DBF.Surrogate.Shopper.pdf)  
 
 🎥 [Watch the full app walkthrough video](https://youtu.be/1raT65YqhSo)
+
