@@ -10,4 +10,4 @@ For a full walkthrough of how the app works, you can check out the video and PDF
 
 [DBF Surrogate Shopper.pdf](https://github.com/user-attachments/files/20638839/DBF.Surrogate.Shopper.pdf)  
 
-🎥 [Watch the full app walkthrough video]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/1raT65YqhSo))
+🎥 [Watch the full app walkthrough video](https://youtu.be/1raT65YqhSo)
